@@ -24,6 +24,30 @@
        "gültig_bis": "29.04.2024",
        "jahrgang": "Vor 1.5.2014",
        "primärenergie": "Gas"
-     }
+     },
+     {
+      "title": "TOP-APARTMENT MIT ALLEM WAS DAZU GEHÖRT!",
+      "lage": "45219 Essen , Deutschland",
+      "objektnummer": "BKE1.BK.1096",
+      "vermarktung": "Miete/Pacht",
+      "nutzungsart": "WAZ (möbliertes Wohnen auf Zeit)",
+      "objekttyp": "Wohnung",
+      "objekttyp_spez": "Etage",
+      "zimmer": 1,
+      "etagen": 3,
+      "baujahr": "1955",
+      "warmmiete": "685 EUR",
+      "bilder": [
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28319.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28305.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28343.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28309.jpg"
+      ],
+      "befeuerungsart": "Gas",
+      "art": "Verbrauch",
+      "gültig_bis": "29.04.2024",
+      "jahrgang": "Vor 1.5.2014",
+      "primärenergie": "Gas"
+    }
    ]
  }
