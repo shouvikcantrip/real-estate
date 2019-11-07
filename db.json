@@ -1,33 +1,62 @@
 {
-   "data": [
-     {
-       "title": "Schicke Wohnung mit Garten, Terrasse, Stellplatz und wunderschönem Ausblick ins Tal",
-       "lage": "45219 Essen , Deutschland",
-       "objektnummer": "BKE1.BK.1097",
-       "vermarktung": "Miete/Pacht",
-       "nutzungsart": "WAZ (möbliertes Wohnen auf Zeit)",
-       "objekttyp": "Wohnung",
-       "objekttyp_spez": "Erdgeschosswohnung",
-       "zimmer": 2,
-       "etagen": 3,
-       "baujahr": "1955",
-       "warmmiete": "950 EUR",
-       "bilder": [
-         "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28363.jpg",
-         "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28377.jpg",
-         "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28351.jpg",
-         "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28353.jpg"
-       ],
-       "beschreibung": "Bei der angebotenen Immobilie handelt es sich um eine sehr schicke, modern möblierte und großzügig ausgestattete Wohnung mit Garten, Terrasse und PKW-Stellplatz. Sie ist ebenerdig über einen eigenen Eingang erreichbar. Parken können Sie direkt auf Ihrem privaten Parkplatz vor Ihrer Haustür. Fahrräder und/oder Motorräder können auf Anfrage gern in die Garage des Vermieters mit eingestellt werden. Die Wohnung befindet sich im Erdgeschoss eines Dreifamilienhauses, welches jeder Partei durch die besonders günstige Hanglage einen privaten ebenerdigen Zugang ermöglicht. Von dem kleinen Garten und der angrenzenden Terrasse haben Sie einen wunderschönen Blick ins Grüne. Die Wohnung wird an maximal 2 Personen vermietet. Die Mindestmietzeit beträgt einen Monat mit automatischer monatlicher Mietverlängerung, sofern keine der beiden Vertragsparteien den Vertrag beenden möchte. Anderweitige Mietwünsche auf Anfrage.",
-       "ausstattung": "Moderne und großzügig eingerichtete Wohnung mit offenem Wohn-/Essbereich, Schlafzimmer, Bad, Flur, Abstellraum, Garten, Terrasse, PKW-Stellplatz Küche: Komplette Küchenzeile mit Ofen/Ceranfeld, Abzug, Spüle, Spülmaschine, Kühlschrank/Gefrierfach, Kaffeemaschine, Mikrowelle, Toaster, Koch-/Ess-/ und Kaffeegeschirr in ausreichender Menge Essbereich: großer Esstisch mit 6 Stühlen, Sideboard und Beistellwagen Wohnbereich: Lese-/Erholungsbereich mit zwei Relaxsesseln, Couch, Couchtische, TV Schlafzimmer: 2 Einzelbetten 1 x 2 m mit Nachtkonsolen Bad: Dusche, Badewanne, WC, Spiegelschrank, Waschtisch, Handtuchheizkörper, Waschmaschine Flur: Garderobe, Ankleideschrank, Zugang zu einem großen Abstellraum Internet: WLAN-Anschluss vorhanden, kostenlose Mitbenutzung kann eingerichtet werden, Festnetzanschlussmöglichkeit vorhanden Terrasse / Garten / Stellplatz: Während Ihres Aufenthaltes stehen Ihnen die Terrasse mit einer Sitzgarnitur für 2 Personen, der Garten und der PKW-Stellplatz zur alleinigen Nutzung zur Verfügung. Die Gartenpflege führt der Vermieter durch. Garage: Fahrräder und/oder Motorräder können auf Wunsch in der Garage des Vermieters mit eingestellt werden. Besonderheiten: ebenerdig, eigener Eingang, Fliesen/Laminat, Haustiere auf Anfrage NICHTRAUCHERWOHNUNG Preise: monatliche Vermietung für 1 Person 950,00 € / 2 Personen zzgl. 50,00 € warm zzgl. Strom nach Verbrauch Endreinigungspauschale 85,00 €, bei einer Mietdauer von mehr als 2 Monaten 135,00 €",
-       "lage_all": "Essen-Kettwig ist der südlichste Stadtteil von Essen und teilt sich auf in Kettwig-Zentrum und südlich der Ruhr gelegen in Kettwig vor der Brücke. Hier befindet sich auch die außergewöhnlich hübsche Wohnung, mitten im Grünen in einer gewachsenen Wohnsiedlung mit besonderem Flair. In wenigen Minuten findet man idyllische Wanderwege und auch der Ruhrtalradweg führt am Fuße der Siedlung vorbei. Die Verkehrsanbindung ist ausgezeichnet. Die Bushaltestelle ist in unmittelbarer Nähe, die S-Bahn-Station in 15 Minuten Fußweg zu erreichen und die Autobahnanbindungen erreichen Sie in ca. 15 Minuten Fahrtzeit. Vor der Brücke verfügt über alle Geschäfte des täglichen Bedarfs. Das Zentrum von Kettwig bildet eine wunderschöne Altstadt mit Gourmet-Restaurants, Kultkneipen und einer schönen Flaniermeile mit kleinen und außergewöhnlichen Geschäften. Die Ruhrpromenade und auch der Baldeneysee sind besondere Anziehungspunkte.",
-       "sonstige_angaben": "Ebenerdig mit eigenem Eingang und PKW-Stellplatz direkt vor der Haustür - Garten mit Terrasse und wunderschönem Blick ins Tal - Fußböden Fliesen/Laminat - Fahrräder/Motorräder können in einer Garage untergestellt werden - WLAN-Nutzung kostenfrei - Endreinigungspauschale 1-2 Monate Mietzeit 85,00 €, ab dem 3. Monat 135,00 € - Stromabrechnung erfolgt nach Verbrauch gemäß separatem Zähler - außer Strom alle Nebenkosten komplett enthalten - Handtücher, Badetücher, Geschirrtücher, Bettwäsche, alles vorhanden - NICHTRAUCHERWOHNUNG - Zusätzliche Einrichtung nach eigenem Geschmack bei längerem Aufenthalt möglich.",
-       "zustand": "Modernisiert",
-       "befeuerungsart": "Gas",
-       "art": "Verbrauch",
-       "gültig_bis": "29.04.2024",
-       "jahrgang": "Vor 1.5.2014",
-       "primärenergie": "Gas"
-     }
-   ]
- }
+  "data": [
+    {
+      "title": "Schicke Wohnung mit Garten, Terrasse, Stellplatz und wunderschönem Ausblick ins Tal",
+      "lage": "45219 Essen , Deutschland",
+      "objektnummer": "BKE1.BK.1097",
+      "vermarktung": "Miete/Pacht",
+      "nutzungsart": "WAZ (möbliertes Wohnen auf Zeit)",
+      "objekttyp": "Wohnung",
+      "objekttyp_spez": "Erdgeschosswohnung",
+      "zimmer": 2,
+      "etagen": 3,
+      "baujahr": "1955",
+      "warmmiete": "950 EUR",
+      "bilder": [
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28363.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28377.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28351.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28353.jpg"
+      ],
+      "beschreibung": "Bei der angebotenen Immobilie handelt es sich um eine sehr schicke, modern möblierte und großzügig ausgestattete Wohnung mit Garten, Terrasse und PKW-Stellplatz. Sie ist ebenerdig über einen eigenen Eingang erreichbar. Parken können Sie direkt auf Ihrem privaten Parkplatz vor Ihrer Haustür. Fahrräder und/oder Motorräder können auf Anfrage gern in die Garage des Vermieters mit eingestellt werden. Die Wohnung befindet sich im Erdgeschoss eines Dreifamilienhauses, welches jeder Partei durch die besonders günstige Hanglage einen privaten ebenerdigen Zugang ermöglicht. Von dem kleinen Garten und der angrenzenden Terrasse haben Sie einen wunderschönen Blick ins Grüne. Die Wohnung wird an maximal 2 Personen vermietet. Die Mindestmietzeit beträgt einen Monat mit automatischer monatlicher Mietverlängerung, sofern keine der beiden Vertragsparteien den Vertrag beenden möchte. Anderweitige Mietwünsche auf Anfrage.",
+      "ausstattung": "Moderne und großzügig eingerichtete Wohnung mit offenem Wohn-/Essbereich, Schlafzimmer, Bad, Flur, Abstellraum, Garten, Terrasse, PKW-Stellplatz Küche: Komplette Küchenzeile mit Ofen/Ceranfeld, Abzug, Spüle, Spülmaschine, Kühlschrank/Gefrierfach, Kaffeemaschine, Mikrowelle, Toaster, Koch-/Ess-/ und Kaffeegeschirr in ausreichender Menge Essbereich: großer Esstisch mit 6 Stühlen, Sideboard und Beistellwagen Wohnbereich: Lese-/Erholungsbereich mit zwei Relaxsesseln, Couch, Couchtische, TV Schlafzimmer: 2 Einzelbetten 1 x 2 m mit Nachtkonsolen Bad: Dusche, Badewanne, WC, Spiegelschrank, Waschtisch, Handtuchheizkörper, Waschmaschine Flur: Garderobe, Ankleideschrank, Zugang zu einem großen Abstellraum Internet: WLAN-Anschluss vorhanden, kostenlose Mitbenutzung kann eingerichtet werden, Festnetzanschlussmöglichkeit vorhanden Terrasse / Garten / Stellplatz: Während Ihres Aufenthaltes stehen Ihnen die Terrasse mit einer Sitzgarnitur für 2 Personen, der Garten und der PKW-Stellplatz zur alleinigen Nutzung zur Verfügung. Die Gartenpflege führt der Vermieter durch. Garage: Fahrräder und/oder Motorräder können auf Wunsch in der Garage des Vermieters mit eingestellt werden. Besonderheiten: ebenerdig, eigener Eingang, Fliesen/Laminat, Haustiere auf Anfrage NICHTRAUCHERWOHNUNG Preise: monatliche Vermietung für 1 Person 950,00 € / 2 Personen zzgl. 50,00 € warm zzgl. Strom nach Verbrauch Endreinigungspauschale 85,00 €, bei einer Mietdauer von mehr als 2 Monaten 135,00 €",
+      "lage_all": "Essen-Kettwig ist der südlichste Stadtteil von Essen und teilt sich auf in Kettwig-Zentrum und südlich der Ruhr gelegen in Kettwig vor der Brücke. Hier befindet sich auch die außergewöhnlich hübsche Wohnung, mitten im Grünen in einer gewachsenen Wohnsiedlung mit besonderem Flair. In wenigen Minuten findet man idyllische Wanderwege und auch der Ruhrtalradweg führt am Fuße der Siedlung vorbei. Die Verkehrsanbindung ist ausgezeichnet. Die Bushaltestelle ist in unmittelbarer Nähe, die S-Bahn-Station in 15 Minuten Fußweg zu erreichen und die Autobahnanbindungen erreichen Sie in ca. 15 Minuten Fahrtzeit. Vor der Brücke verfügt über alle Geschäfte des täglichen Bedarfs. Das Zentrum von Kettwig bildet eine wunderschöne Altstadt mit Gourmet-Restaurants, Kultkneipen und einer schönen Flaniermeile mit kleinen und außergewöhnlichen Geschäften. Die Ruhrpromenade und auch der Baldeneysee sind besondere Anziehungspunkte.",
+      "sonstige_angaben": "Ebenerdig mit eigenem Eingang und PKW-Stellplatz direkt vor der Haustür - Garten mit Terrasse und wunderschönem Blick ins Tal - Fußböden Fliesen/Laminat - Fahrräder/Motorräder können in einer Garage untergestellt werden - WLAN-Nutzung kostenfrei - Endreinigungspauschale 1-2 Monate Mietzeit 85,00 €, ab dem 3. Monat 135,00 € - Stromabrechnung erfolgt nach Verbrauch gemäß separatem Zähler - außer Strom alle Nebenkosten komplett enthalten - Handtücher, Badetücher, Geschirrtücher, Bettwäsche, alles vorhanden - NICHTRAUCHERWOHNUNG - Zusätzliche Einrichtung nach eigenem Geschmack bei längerem Aufenthalt möglich.",
+      "zustand": "Modernisiert",
+      "befeuerungsart": "Gas",
+      "art": "Verbrauch",
+      "gültig_bis": "29.04.2024",
+      "jahrgang": "Vor 1.5.2014",
+      "primärenergie": "Gas"
+    },
+    {
+      "title": "TOP-APARTMENT MIT ALLEM WAS DAZU GEHÖRT!",
+      "lage": "45219 Essen , Deutschland",
+      "objektnummer": "BKE1.BK.1096",
+      "vermarktung": "Miete/Pacht",
+      "nutzungsart": "WAZ (möbliertes Wohnen auf Zeit)",
+      "objekttyp": "Wohnung",
+      "objekttyp_spez": "Etage",
+      "zimmer": 1,
+      "etagen": 3,
+      "baujahr": "1955",
+      "warmmiete": "685 EUR",
+      "bilder": [
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28319.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28305.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28343.jpg",
+        "https://backend.div-immobilien.de/open_immo_attachments/ftp12308523-oi023abaesse_Foto_28309.jpg"
+      ],
+      "beschreibung": "Bei der angebotenen Immobilie handelt es sich um ein sehr schickes, modern möbliertes und großzügig ausgestattetes Apartment mit PKW-Stellplatz und Balkon. Es ist ebenerdig über einen eigenen Eingang zu erreichen. Parken können Sie direkt auf Ihrem privaten Parkplatz vor Ihrer Haustür. Fahrräder und/oder Motorräder können auf Anfrage gern in die Garage des Vermieters mit eingestellt werden. Das Apartment befindet sich in einem Dreifamilienhaus, welches jeder Partei durch die besonders günstige Hanglage einen privaten ebenerdigen Zugang ermöglicht. Von dem kleinen Balkon aus hat man einen wunderschönen Blick ins Tal. Das Apartment wird vermietet an eine Einzelperson. Die Mindestmietzeit beträgt einen Monat mit automatischer monatlicher Mietverlängerung, sofern keine der beiden Vertragsparteien den Vertrag beenden möchte. Anderweitige Mietwünsche auf Anfrage.",
+      "ausstattung": "Apartment mit offenem Wohn-/Essbereich, Schlafbereich, Bad, Flur, Abstellbereich, Balkon, PKW-Stellplatz Küche mit kompletter hochwertiger ALNO-Küchenzeile mit Ofen/Ceranfeld, Abzug, Spüle, Spülmaschine, Kühlschrank/Gefrierfach, Kaffeemaschine, Toaster, Koch-/Ess-/ und Kaffeegeschirr in ausreichender Menge Essbereich mit ausziehbarem Esstisch mit 4 Stühlen, Sideboard und Beistellschrank Wohnbereich mit Lese-/Erholungsbereich mit Relaxsessel und Hocker, Beistelltisch, Eckboard mit TV Schlafbereich mit Kleiderschrank, Bett 1,40 m x 2,00 m, Beistelltisch, Standleuchte, Wäschetruhe Tageslicht-Bad mit Dusche und Badewanne, WC, Spiegelschrank, Waschtisch, Waschtischunterschrank, Handtuchheizkörper, Waschmaschine Flur mit Garderobe, Schlüsselbrett, Schuhregal Internet: WLAN-Anschluss vorhanden, kostenlose Mitbenutzung kann eingerichtet werden, Festnetzanschlussmöglichkeit vorhanden Während Ihres Aufenthaltes stehen Ihnen der Balkon und der PKW-Stellplatz zur alleinigen Nutzung zur Verfügung. Garage: Fahrräder und/oder Motorräder können auf Wunsch in einer Garage untergebracht werden.",
+      "lage_all": "Essen-Kettwig ist der südlichste Stadtteil von Essen und teilt sich auf in Kettwig-Zentrum und südlich der Ruhr gelegen in Kettwig vor der Brücke. Hier befindet sich auch das außergewöhnlich hübsche Apartment, mitten im Grünen in einer gewachsenen Wohnsiedlung mit besonderem Flair. In wenigen Minuten findet man idyllische Wanderwege und auch der Ruhrtalradweg führt am Fuße der Siedlung vorbei. Die Verkehrsanbindung ist ausgezeichnet. Die Bushaltestelle ist in unmittelbarer Nähe, die S-Bahn-Station in 15 Minuten Fußweg zu erreichen und die Autobahnanbindungen erreichen Sie in ca. 15 Minuten Fahrtzeit. Vor der Brücke verfügt über alle Geschäfte des täglichen Bedarfs. Das Zentrum von Kettwig bildet eine wunderschöne Altstadt mit Gourmet-Restaurants, Kultkneipen und einer schönen Flaniermeile mit kleinen und außergewöhnlichen Geschäften. Die Ruhrpromenade und auch der Baldeneysee sind besondere Anziehungspunkte.",
+      "sonstige_angaben": "Ebenerdig mit eigenem Eingang und PKW-Stellplatz direkt vor der Haustür - Balkon mit schönem Blick ins Tal - Fußböden Fliesen/Laminat - Fahrräder/Motorräder können in einer Garage untergestellt werden - WLAN-Nutzung kostenfrei - Endreinigungspauschale 1-2 Monate Mietzeit 85,00 €, ab dem 3. Monat 135,00 € - Stromabrechnung erfolgt nach Verbrauch gemäß separatem Zähler - außer Strom alle Nebenkosten komplett enthalten - Handtücher, Badetücher, Geschirrtücher, Bettwäsche, alles vorhanden - NICHTRAUCHERWOHNUNG - Zusätzliche Einrichtung nach eigenem Geschmack bei längerem Aufenthalt möglich. - Aufstellung eines eigenen Wäschetrockners im Bad bei längerem Aufenthalt möglich",
+      "zustand": "Modernisiert",
+      "befeuerungsart": "Gas",
+      "art": "Verbrauch",
+      "gültig_bis": "29.04.2024",
+      "jahrgang": "Vor 1.5.2014",
+      "primärenergie": "Gas"
+    }
+  ]
+}
